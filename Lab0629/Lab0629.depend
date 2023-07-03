@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1687909958 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lab0629\myutil.cpp
+	"MyUtil.h"
+
+1687908781 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lab0629\myutil.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+
+1688075120 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lab0629\tarvb.cpp
+	"TARVB.h"
+
+1602082215 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lab0629\tarvb.h
+	<stdio.h>
+	<stdlib.h>
+
+1688049765 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lab0629\tlseint.cpp
+	"TLSEINT.h"
+
+1688049758 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lab0629\tlseint.h
+	<stdio.h>
+	<stdlib.h>
+
+1688067333 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lab0629\main.cpp
+	"TARVB.h"
+	"TLSEINT.h"
+	"MyUtil.h"
+

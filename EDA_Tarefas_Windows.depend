@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1683820748 source:/media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/ListaEn.cpp
+	"ListaEn.h"
+
+1683820750 /media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/ListaEn.h
+
+1683820746 source:/media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/Listas.cpp
+	"Listas.h"
+
+1683820750 /media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/Listas.h
+	"TLSE.h"
+	<stdio.h>
+	<stdlib.h>
+
+1683820750 /media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TLSE.h
+	<stdio.h>
+	<stdlib.h>
+
+1683820748 source:/media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/Rev2.cpp
+	"Rev2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1683820752 /media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/Rev2.h
+
+1684327420 source:/media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TAB.cpp
+	"TAB.h"
+
+1684327384 /media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TAB.h
+	<stdio.h>
+	<stdlib.h>
+
+1684351256 source:/media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TABB.cpp
+	"TABB.h"
+
+1684350400 /media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TABB.h
+	<stdio.h>
+	<stdlib.h>
+
+1683820748 source:/media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TAVL.cpp
+	"TAVL.h"
+
+1683820750 /media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TAVL.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1683820750 source:/media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TG.cpp
+	"TG.h"
+
+1683820750 /media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TG.h
+	<stdlib.h>
+	<stdio.h>
+
+1683820750 source:/media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/TLSE.cpp
+	"TLSE.h"
+
+1684794670 source:/media/eniac/21964156487/Arq comp/EDA_Tarefas_Windows/main.cpp
+	"TLSE.h"
+	"TAB.h"
+	"TABB.h"
+	"TAVL.h"
+	"TG.h"
+	"Rev2.h"
+	"Listas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1683831548 source:e:\arq comp\common_files\listaen.cpp
+	"ListaEn.h"
+
+1683831550 e:\arq comp\common_files\listaen.h
+
+1683831546 source:e:\arq comp\common_files\listas.cpp
+	"Listas.h"
+
+1683831550 e:\arq comp\common_files\listas.h
+	"TLSE.h"
+	<stdio.h>
+	<stdlib.h>
+
+1685313524 e:\arq comp\common_files\tlse.h
+	<stdio.h>
+	<stdlib.h>
+
+1683831548 source:e:\arq comp\common_files\rev2.cpp
+	"Rev2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1683831552 e:\arq comp\common_files\rev2.h
+
+1685484136 source:e:\arq comp\common_files\tab.cpp
+	"TAB.h"
+
+1685491322 e:\arq comp\common_files\tab.h
+	<stdio.h>
+	<stdlib.h>
+
+1685489012 source:e:\arq comp\common_files\tabb.cpp
+	"TABB.h"
+
+1685491368 e:\arq comp\common_files\tabb.h
+	<stdio.h>
+	<stdlib.h>
+
+1683831548 source:e:\arq comp\common_files\tavl.cpp
+	"TAVL.h"
+
+1683831550 e:\arq comp\common_files\tavl.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1684968512 source:e:\arq comp\common_files\tg.cpp
+	"TG.h"
+
+1684965506 e:\arq comp\common_files\tg.h
+	<stdlib.h>
+	<stdio.h>
+
+1685313524 source:e:\arq comp\common_files\tlse.cpp
+	"TLSE.h"
+
+1685491218 source:e:\arq comp\common_files\main.cpp
+	"TLSE.h"
+	"TAB.h"
+	"TABB.h"
+	"TAVL.h"
+	"TG.h"
+	"Rev2.h"
+	"Listas.h"
+	"PlayGronwdArquivosBinarios.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685314006 source:e:\arq comp\common_files\playgronwdarquivosbinarios.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"PlayGronwdArquivosBinarios.h"
+	"TLSE.h"
+
+1685491436 e:\arq comp\common_files\playgronwdarquivosbinarios.h
+
+1683831548 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\listaen.cpp
+	"ListaEn.h"
+
+1683831550 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\listaen.h
+
+1683831546 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\listas.cpp
+	"Listas.h"
+
+1683831550 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\listas.h
+	"TLSE.h"
+	<stdio.h>
+	<stdlib.h>
+
+1685313524 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tlse.h
+	<stdio.h>
+	<stdlib.h>
+
+1683831548 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\rev2.cpp
+	"Rev2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1683831552 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\rev2.h
+
+1685484136 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tab.cpp
+	"TAB.h"
+
+1685571812 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tab.h
+	<stdio.h>
+	<stdlib.h>
+
+1685572012 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tabb.cpp
+	"TABB.h"
+
+1684878622 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tabb.h
+	<stdio.h>
+	<stdlib.h>
+
+1685571878 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tavl.cpp
+	"TAVL.h"
+
+1683831550 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tavl.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1685574046 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tg.cpp
+	"TG.h"
+
+1685573554 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tg.h
+	<stdlib.h>
+	<stdio.h>
+
+1685313524 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tlse.cpp
+	"TLSE.h"
+
+1688251917 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\playgronwdarquivosbinarios.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"PlayGronwdArquivosBinarios.h"
+	"TLSE.h"
+	"Rev2.h"
+
+1685619753 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\playgronwdarquivosbinarios.h
+
+1688307042 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\main.cpp
+	"TLSE.h"
+	"TAB.h"
+	"TABB.h"
+	"TAVL.h"
+	"TG.h"
+	"Rev2.h"
+	"Listas.h"
+	"PlayGronwdArquivosBinarios.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TARVB.h"
+	"TARVBM.h"
+	"MyUtil.h"
+
+1688063420 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lista11\myutil.cpp
+	"MyUtil.h"
+
+1688063446 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lista11\myutil.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+
+1688305650 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lista11\tarvb.cpp
+	"TARVB.h"
+
+1602082215 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lista11\tarvb.h
+	<stdio.h>
+	<stdlib.h>
+
+1602106360 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lista11\tarvbm.cpp
+	"TARVBM.h"
+
+1688306928 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\lista11\tarvbm.h
+	<stdio.h>
+	<stdlib.h>
+
+1602082215 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tarvb.h
+	<stdio.h>
+	<stdlib.h>
+
+1687908781 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\myutil.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+
+1602106256 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda\tarvbm.h
+	<stdio.h>
+	<stdlib.h>
+
