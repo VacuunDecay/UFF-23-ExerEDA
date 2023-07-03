@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1688418308 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda deprecated look at github\uff-23-exereda\mylibreries\myutil.cpp
+	"MyUtil.h"
+
+1688419280 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda deprecated look at github\uff-23-exereda\mylibreries\myutil.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+
+1688419330 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda deprecated look at github\uff-23-exereda\heap\heapmp.cpp
+	"HeapMP.h"
+
+1688419665 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda deprecated look at github\uff-23-exereda\heap\heapmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1688420263 source:c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda deprecated look at github\uff-23-exereda\heap\main.cpp
+	"../MyLibreries/MyUtil.h"
+	"HeapMP.h"
+	"HeapMS.h"
+
+1688420163 c:\users\catreco\onedrive\documents\programas_em_cpp\uff_eda deprecated look at github\uff-23-exereda\heap\heapms.h
+	<stdio.h>
+	<stdlib.h>
+
